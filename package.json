@@ -1,0 +1,22 @@
+{
+  "name": "github-actions-package",
+  "version": "0.0.1",
+  "description": "this is an package publication example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/francijpg/github-actions-package.git"
+  },
+  "author": "francijpg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francijpg/github-actions-package/issues"
+  },
+  "homepage": "https://github.com/francijpg/github-actions-package#readme"
+}
