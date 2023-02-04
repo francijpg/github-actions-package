@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-package",
+  "name": "@francijpg/github-actions-package",
   "version": "0.0.1",
   "description": "this is an package publication example",
   "main": "index.js",
